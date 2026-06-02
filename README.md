@@ -1,5 +1,7 @@
-<h1 align="center">l58243515</h1>
-<h3 align="center">Blockchain / Web3 Developer</h3>
+<p align="center">
+  <b style="font-size:32px">l58243515</b><br>
+  <sub>Blockchain / Web3 Developer</sub>
+</p>
 
 <p align="center">
   <a href="https://github.com/l58243515"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
