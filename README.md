@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://github.com/l58243515"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
-  &nbsp;
   <a href="mailto:xiannalan2020@outlook.com"><img src="https://img.shields.io/badge/Email-xiannalan2020%40outlook.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
 </p>
 
@@ -84,33 +83,33 @@
 
 <p>
   <a href="https://github.com/l58243515/devkit"><b>devkit</b></a>
-  &mdash; Developer CLI toolkit: scaffolding, file organization, crypto utilities, git stats.
-  <br><sub>Python &bull; Click &bull; Rich &bull; 47 tests &bull; 91% coverage</sub>
+  -- Developer CLI toolkit: scaffolding, file organization, crypto utilities, git stats.
+  <br><sub>Python | Click | Rich | 47 tests | 91% coverage</sub>
 </p>
 
 <p>
   <a href="https://github.com/l58243515/llm-bridge"><b>llm-bridge</b></a>
-  &mdash; Unified TypeScript SDK for LLM providers: streaming, caching, retry, fallback chains.
-  <br><sub>TypeScript &bull; SDK &bull; 69 tests &bull; 89.6% coverage</sub>
+  -- Unified TypeScript SDK for LLM providers: streaming, caching, retry, fallback chains.
+  <br><sub>TypeScript | SDK | 69 tests | 89.6% coverage</sub>
 </p>
 
 <p>
   <a href="https://github.com/l58243515/react-glass"><b>react-glass</b></a>
-  &mdash; Glassmorphism React UI library: CSS theming, full ARIA, keyboard nav, reduced-motion.
-  <br><sub>React &bull; TypeScript &bull; CSS &bull; 44 tests &bull; A11y-ready</sub>
+  -- Glassmorphism React UI library: CSS theming, full ARIA, keyboard nav, reduced-motion.
+  <br><sub>React | TypeScript | CSS | 44 tests | A11y-ready</sub>
 </p>
 
 <p>
   <a href="https://github.com/l58243515/mini-ml"><b>mini-ml</b></a>
-  &mdash; ML toolkit from scratch with NumPy: preprocessing, metrics, k-fold CV, visualization.
-  <br><sub>Python &bull; NumPy &bull; 92 tests &bull; 90% coverage</sub>
+  -- ML toolkit from scratch with NumPy: preprocessing, metrics, k-fold CV, visualization.
+  <br><sub>Python | NumPy | 92 tests | 90% coverage</sub>
 </p>
 
 ---
 
 <p align="center">
   <a href="https://github.com/l58243515"><img src="https://img.shields.io/badge/GitHub-l58243515-181717?style=for-the-badge&amp;logo=github" /></a>
-  &nbsp;
+   
   <a href="mailto:xiannalan2020@outlook.com"><img src="https://img.shields.io/badge/Email-xiannalan2020%40outlook.com-EA4335?style=for-the-badge&amp;logo=gmail" /></a>
 </p>
 
