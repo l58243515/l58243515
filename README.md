@@ -1,15 +1,15 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:F7931A,50:E2761B,100:627EEA&amp;height=180&amp;section=header&amp;text=l58243515&amp;fontSize=44&amp;fontAlignY=34&amp;desc=Blockchain+Web3+Developer&amp;descSize=14&amp;descAlignY=56&amp;animation=fadeIn&amp;fontColor=ffffff&amp;descColor=f8d06b" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:F7931A,50:E2761B,100:627EEA&amp;height=180&amp;section=header&amp;text=l58243515&amp;fontSize=44&amp;fontAlignY=34&amp;desc=Blockchain+Web3+Developer&amp;descSize=14&amp;descAlignY=56&amp;animation=fadeIn&amp;fontColor=ffffff&amp;descColor=f8d06b" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=18&amp;duration=3000&amp;pause=1000&amp;color=F7931A&amp;center=true&amp;width=550&amp;lines=Smart+Contract+Development;EVM+Solana+Layer+2;Foundry+Hardhat+Anchor;DeFi+NFT+Security" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=18&amp;duration=3000&amp;pause=1000&amp;color=F7931A&amp;center=true&amp;width=550&amp;lines=Smart+Contract+Development;EVM+Solana+Layer+2;Foundry+Hardhat+Anchor;DeFi+NFT+Security" alt="typing" />
-
-<p>
+<p align="center">
   <a href="https://github.com/l58243515"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
   <a href="mailto:58243515@qq.com"><img src="https://img.shields.io/badge/Email-58243515@qq.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
 </p>
-
-</div>
 
 ---
 
@@ -56,136 +56,58 @@ Blockchain and Web3 developer focused on smart contract engineering, EVM-compati
 
 ### Expertise
 
-<table>
-<tr>
-<td width="33%">
+| Smart Contracts | DeFi and Protocols | Security and Auditing |
+|:--|:--|:--|
+| ERC-20 / ERC-721 / ERC-1155 | AMM Design and Liquidity Pools | Slither and Aderyn Analysis |
+| ERC-4337 Account Abstraction | Staking and Yield Farming | Echidna and Foundry Fuzzing |
+| UUPS and Proxy Patterns | Lending and Borrowing | Formal Verification (Certora) |
+| Gas Optimization | Chainlink Oracles and CCIP | Reentrancy and Flash Loan Defense |
+| Access Control and Timelocks | MEV Mitigation | Audit Report Writing |
 
-**Smart Contracts**
-- ERC-20 / ERC-721 / ERC-1155
-- ERC-4337 Account Abstraction
-- UUPS and Transparent Proxy Patterns
-- Gas Optimization
-- Access Control and Timelocks
-
-</td>
-<td width="33%">
-
-**DeFi and Protocols**
-- AMM Design and Liquidity Pools
-- Staking and Yield Farming
-- Lending and Borrowing Markets
-- Chainlink Oracles and CCIP
-- MEV Mitigation
-
-</td>
-<td width="33%">
-
-**Security and Auditing**
-- Slither and Aderyn Static Analysis
-- Echidna and Foundry Fuzz Testing
-- Formal Verification (Certora)
-- Reentrancy and Flash Loan Defense
-- Audit Report Writing
-
-</td>
-</tr>
-<tr>
-<td width="33%">
-
-**Layer 2 and Scaling**
-- Optimistic Rollups (Arbitrum, OP)
-- ZK-Rollups (zkSync, StarkNet)
-- Data Availability (Celestia, EigenDA)
-- EIP-4844 Blob Transactions
-- Sidechains and Appchains
-
-</td>
-<td width="33%">
-
-**Cross-Chain**
-- LayerZero, Wormhole, Axelar
-- Lock-and-Mint Bridge Patterns
-- Cross-Chain Messaging Protocols
-- Multi-Chain Contract Deployment
-- ENS and Decentralized Identity
-
-</td>
-<td width="33%">
-
-**Tokenomics and Governance**
-- DAO Frameworks and On-Chain Voting
-- Token Vesting and Distribution
-- NFT Drops and Metadata Standards
-- RWA Tokenization
-- DePIN Economic Models
-
-</td>
-</tr>
-</table>
+| Layer 2 and Scaling | Cross-Chain | Tokenomics and Governance |
+|:--|:--|:--|
+| Optimistic Rollups (Arb, OP) | LayerZero, Wormhole, Axelar | DAO Frameworks and Voting |
+| ZK-Rollups (zkSync, StarkNet) | Lock-and-Mint Bridge Patterns | Token Vesting and Distribution |
+| Data Availability (Celestia) | Cross-Chain Messaging | NFT Drops and Metadata |
+| EIP-4844 Blob Transactions | Multi-Chain Deployment | RWA Tokenization |
+| Sidechains and Appchains | ENS and Decentralized Identity | DePIN Economic Models |
 
 ---
 
 ### GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=l58243515&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&amp;theme=tokyonight&amp;hide=issues&amp;hide_rank=true&amp;custom_title=Activity" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l58243515&amp;layout=compact&amp;hide_border=true&amp;theme=tokyonight&amp;langs_count=6&amp;custom_title=Languages&amp;hide=html,css" />
+</p>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=l58243515&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&amp;theme=tokyonight&amp;hide=issues&amp;hide_rank=true&amp;custom_title=Activity" />
-&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l58243515&amp;layout=compact&amp;hide_border=true&amp;theme=tokyonight&amp;langs_count=6&amp;custom_title=Languages&amp;hide=html,css" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=l58243515&amp;theme=tokyonight&amp;hide_border=true&amp;date_format=M+j+Y" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=l58243515&amp;theme=tokyonight&amp;hide_border=true&amp;date_format=M+j+Y" />
+</p>
 
 ---
 
 ### Projects
 
-<table>
-<tr>
-<td width="50%">
+**devkit** — Developer CLI toolkit: scaffolding, file organization, crypto utilities, git stats. Python, Click, Rich. *47 tests, 91% coverage, MIT.*
 
-**[devkit](https://github.com/l58243515/devkit)** `Python` `Click` `CLI`<br>
-<sub>Developer CLI toolkit — scaffolding, file organization, crypto utilities, and git stats. 47 tests, 91% coverage.</sub>
+**llm-bridge** — Unified TypeScript SDK for LLM providers: streaming, caching, retry, fallback chains. *69 tests, 89.6% coverage, MIT.*
 
-</td>
-<td width="50%">
+**react-glass** — Glassmorphism React UI library: CSS theming, full ARIA, keyboard nav, reduced-motion aware. *44 tests, A11y-ready, MIT.*
 
-**[llm-bridge](https://github.com/l58243515/llm-bridge)** `TypeScript` `SDK` `LLM`<br>
-<sub>Unified SDK for LLM providers — streaming, caching, retry, and fallback chains. 69 tests, 89.6% coverage.</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[react-glass](https://github.com/l58243515/react-glass)** `React` `TypeScript` `CSS`<br>
-<sub>Glassmorphism UI library — CSS theming, full ARIA, keyboard nav, reduced-motion aware. 44 tests, A11y-ready.</sub>
-
-</td>
-<td width="50%">
-
-**[mini-ml](https://github.com/l58243515/mini-ml)** `Python` `NumPy` `ML`<br>
-<sub>ML toolkit from scratch — preprocessing, metrics, k-fold CV, visualization. 92 tests, 90% coverage.</sub>
-
-</td>
-</tr>
-</table>
+**mini-ml** — ML toolkit from scratch with NumPy: preprocessing, metrics, k-fold CV, visualization. *92 tests, 90% coverage, MIT.*
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=l58243515&amp;theme=onedark&amp;no-frame=true&amp;column=7&amp;margin-w=6" />
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=l58243515&amp;theme=onedark&amp;no-frame=true&amp;column=7&amp;margin-w=6" />
+<p align="center">
+  <a href="https://github.com/l58243515"><img src="https://img.shields.io/badge/GitHub-l58243515-181717?style=for-the-badge&amp;logo=github" /></a>
+  <a href="mailto:58243515@qq.com"><img src="https://img.shields.io/badge/Email-58243515@qq.com-EA4335?style=for-the-badge&amp;logo=gmail" /></a>
+</p>
 
-<br/>
-
-<a href="https://github.com/l58243515"><img src="https://img.shields.io/badge/GitHub-l58243515-181717?style=for-the-badge&amp;logo=github" /></a>
-&nbsp;
-<a href="mailto:58243515@qq.com"><img src="https://img.shields.io/badge/Email-58243515@qq.com-EA4335?style=for-the-badge&amp;logo=gmail" /></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:F7931A,50:E2761B,100:627EEA&amp;height=100&amp;section=footer&amp;animation=fadeIn" />
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:F7931A,50:E2761B,100:627EEA&amp;height=100&amp;section=footer&amp;animation=fadeIn" />
+</p>
