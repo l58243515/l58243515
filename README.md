@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/l58243515"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
-  <a href="mailto:58243515@qq.com"><img src="https://img.shields.io/badge/Email-58243515@qq.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+  <a href="mailto:xiannalan2020@outlook.com"><img src="https://img.shields.io/badge/Email-xiannalan2020@outlook.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
 </p>
 
 ---
@@ -70,15 +70,6 @@ Blockchain and Web3 developer focused on smart contract engineering, EVM-compati
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/l58243515">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=l58243515&amp;show_icons=true&amp;count_private=true&amp;theme=tokyonight&amp;hide_rank=true&amp;custom_title=Activity" />
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=l58243515&amp;layout=compact&amp;theme=tokyonight&amp;langs_count=6&amp;custom_title=Languages" />
-  </a>
-</p>
-
 ---
 
 ### Projects
@@ -95,7 +86,7 @@ Blockchain and Web3 developer focused on smart contract engineering, EVM-compati
 
 <p align="center">
   <a href="https://github.com/l58243515"><img src="https://img.shields.io/badge/GitHub-l58243515-181717?style=for-the-badge&amp;logo=github" /></a>
-  <a href="mailto:58243515@qq.com"><img src="https://img.shields.io/badge/Email-58243515@qq.com-EA4335?style=for-the-badge&amp;logo=gmail" /></a>
+  <a href="mailto:xiannalan2020@outlook.com"><img src="https://img.shields.io/badge/Email-xiannalan2020@outlook.com-EA4335?style=for-the-badge&amp;logo=gmail" /></a>
 </p>
 
 <p align="center">
