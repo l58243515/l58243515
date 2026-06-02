@@ -1,85 +1,127 @@
-<h3 align="center">l58243515</h3>
+<div align="center">
 
-<p align="center"><sub>Software Developer · CLI · SDK · UI · ML</sub></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6366F1,100:3B82F6&height=200&section=header&text=l58243515&fontSize=48&fontAlignY=34&desc=Software+Developer&descSize=16&descAlignY=56&animation=fadeIn&fontColor=f8fafc&descColor=c4b5fd" />
 
-<p align="center">
-  <a href="https://github.com/l58243515"><img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=FAFAFA" /></a>
-  <a href="mailto:58243515@qq.com"><img src="https://img.shields.io/badge/Email-2563EB?style=flat-square&logo=gmail&logoColor=FAFAFA" /></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Building+Developer+Tools;Exploring+AI+%26+ML;Crafting+UI+Libraries;Writing+Clean+Code)](https://git.io/typing-svg)]
 
----
+<br/>
 
-I build developer tools, TypeScript SDKs, React component libraries, and machine learning utilities. Clean APIs, thorough testing, practical documentation.
+<a href="https://github.com/l58243515"><img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=FAFAFA" /></a>
+&nbsp;
+<a href="mailto:58243515@qq.com"><img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=FAFAFA" /></a>
+
+</div>
+
+<br/>
+
+I build developer tools, TypeScript SDKs, React component libraries, and machine learning utilities — with an emphasis on clean APIs, thorough testing, and practical documentation.
+
+<br/>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=l58243515&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&hide=prs,issues&hide_rank=true&custom_title=Activity" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l58243515&layout=compact&hide_border=true&theme=tokyonight&langs_count=6&custom_title=Languages&hide=html,css" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=l58243515&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=l58243515&theme=tokyo-night&hide_border=true&custom_title=Contributions" />
+
+</div>
+
+<br/>
 
 ---
 
 ### Projects
 
-**[devkit](https://github.com/l58243515/devkit)** &nbsp; <sup>`Python` `Click` `CLI`</sup><br>
-Developer CLI toolkit — project scaffolding, file organization, crypto utilities, and git repository statistics. Built with Python, Click, and Rich.<br>
-<sub>47 tests · 91% coverage · MIT</sub>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br>
+#### [devkit](https://github.com/l58243515/devkit)
+Developer CLI toolkit — project scaffolding, file organization, crypto utilities, and git repository statistics. Built with Python, Click, and Rich.
 
-**[llm-bridge](https://github.com/l58243515/llm-bridge)** &nbsp; <sup>`TypeScript` `SDK` `LLM`</sup><br>
-Unified TypeScript SDK for LLM providers — streaming, response caching, exponential-backoff retry, and automatic provider fallback chains.<br>
-<sub>69 tests · 89.6% coverage · MIT</sub>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/Click-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/tests-47_passed-brightgreen?style=flat-square" />
+<img src="https://img.shields.io/badge/coverage-91%25-brightgreen?style=flat-square" />
 
-<br>
+</td>
+<td width="50%" valign="top">
 
-**[react-glass](https://github.com/l58243515/react-glass)** &nbsp; <sup>`React` `TypeScript` `CSS`</sup><br>
-Glassmorphism React component library — CSS custom-property theming, full ARIA accessibility, keyboard navigation, and prefers-reduced-motion support.<br>
-<sub>44 tests · A11y-ready · MIT</sub>
+#### [llm-bridge](https://github.com/l58243515/llm-bridge)
+Unified TypeScript SDK for LLM providers — streaming, response caching, exponential-backoff retry, and automatic provider fallback chains.
 
-<br>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/SDK-6366F1?style=flat-square" />
+<img src="https://img.shields.io/badge/tests-69_passed-brightgreen?style=flat-square" />
+<img src="https://img.shields.io/badge/coverage-89.6%25-brightgreen?style=flat-square" />
 
-**[mini-ml](https://github.com/l58243515/mini-ml)** &nbsp; <sup>`Python` `NumPy` `ML`</sup><br>
-Lightweight ML toolkit from scratch with NumPy — preprocessing, classification/regression metrics, k-fold cross-validation, and visualization.<br>
-<sub>92 tests · 90% coverage · MIT</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [react-glass](https://github.com/l58243515/react-glass)
+Glassmorphism React component library — CSS custom-property theming, full ARIA accessibility, keyboard navigation, and prefers-reduced-motion support.
+
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/tests-44_passed-brightgreen?style=flat-square" />
+<img src="https://img.shields.io/badge/ARIA-ready-blue?style=flat-square" />
+
+</td>
+<td width="50%" valign="top">
+
+#### [mini-ml](https://github.com/l58243515/mini-ml)
+Lightweight ML toolkit from scratch with NumPy — preprocessing, classification/regression metrics, k-fold cross-validation, and visualization.
+
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/tests-92_passed-brightgreen?style=flat-square" />
+<img src="https://img.shields.io/badge/coverage-90%25-brightgreen?style=flat-square" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### Tech
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=l58243515&show_icons=true&count_private=true&hide_border=true&hide=prs,issues&hide_rank=true&custom_title=Activity&theme=transparent&icon_color=2563EB&ring_color=2563EB&title_color=1f2328&text_color=434d58" />
+<img src="https://github-profile-trophy.vercel.app/?username=l58243515&theme=algolia&no-frame=true&column=7&margin-w=6" />
 
-&nbsp;&nbsp;
+<br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l58243515&layout=compact&hide_border=true&custom_title=Languages&hide=html,css&theme=transparent&title_color=1f2328&text_color=434d58&langs_count=6" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6366F1,100:3B82F6&height=100&section=footer" />
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=l58243515&theme=github-compact&hide_border=true&custom_title=Contributions&line=2563EB&point=1D4ED8&color=656d76" />
-
-</div>
-
----
-
-<div align="center">
-  <sub>
-    <a href="https://github.com/l58243515">github</a>
-    ·
-    <a href="mailto:58243515@qq.com">email</a>
-  </sub>
 </div>
