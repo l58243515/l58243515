@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=18&amp;duration=3000&amp;pause=1000&amp;color=F7931A&amp;center=true&amp;width=550&amp;lines=Smart+Contract+Development;EVM+Solana+Layer+2;Foundry+Hardhat+Anchor;DeFi+NFT+Security" />
-</p>
-
-<p align="center">
   <a href="https://github.com/l58243515"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
   <a href="mailto:58243515@qq.com"><img src="https://img.shields.io/badge/Email-58243515@qq.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
 </p>
@@ -81,10 +77,6 @@ Blockchain and Web3 developer focused on smart contract engineering, EVM-compati
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l58243515&amp;layout=compact&amp;hide_border=true&amp;theme=tokyonight&amp;langs_count=6&amp;custom_title=Languages&amp;hide=html,css" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=l58243515&amp;theme=tokyonight&amp;hide_border=true&amp;date_format=M+j+Y" />
-</p>
-
 ---
 
 ### Projects
@@ -98,10 +90,6 @@ Blockchain and Web3 developer focused on smart contract engineering, EVM-compati
 **mini-ml** — ML toolkit from scratch with NumPy: preprocessing, metrics, k-fold CV, visualization. *92 tests, 90% coverage, MIT.*
 
 ---
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=l58243515&amp;theme=onedark&amp;no-frame=true&amp;column=7&amp;margin-w=6" />
-</p>
 
 <p align="center">
   <a href="https://github.com/l58243515"><img src="https://img.shields.io/badge/GitHub-l58243515-181717?style=for-the-badge&amp;logo=github" /></a>
