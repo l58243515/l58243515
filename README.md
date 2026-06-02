@@ -35,10 +35,12 @@ Blockchain & Web3 developer focused on smart contract engineering, EVM-compatibl
   <img src="https://img.shields.io/badge/Anchor-9945FF?style=flat-square" />
   <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat-square" />
   <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square" />
-  <img src="https://img.shields.io/badge/Viem-000000?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wagmi-000000?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Viem-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Wagmi-000000?style=flat-square" />
   <img src="https://img.shields.io/badge/The_Graph-6747ED?style=flat-square" />
   <img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Chainlink-375BD2?style=flat-square" />
+  <img src="https://img.shields.io/badge/LayerZero-000000?style=flat-square" />
 </p>
 
 <p>
@@ -47,15 +49,17 @@ Blockchain & Web3 developer focused on smart contract engineering, EVM-compatibl
   <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" />
   <img src="https://img.shields.io/badge/Arbitrum-28A0F0?style=for-the-badge&logo=arbitrum&logoColor=white" />
   <img src="https://img.shields.io/badge/Base-0052FF?style=for-the-badge&logo=base&logoColor=white" />
+  <img src="https://img.shields.io/badge/zkSync-8C8DFC?style=for-the-badge" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Slither-1ABC9C?style=flat-square" />
   <img src="https://img.shields.io/badge/Echidna-3498DB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mythril-9B59B6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Certora-1E3A5F?style=flat-square" />
   <img src="https://img.shields.io/badge/Tenderly-8A2BE2?style=flat-square" />
   <img src="https://img.shields.io/badge/Alchemy-363FF9?style=flat-square" />
   <img src="https://img.shields.io/badge/Infura-FF6B4A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Dune_Analytics-FF6B4A?style=flat-square" />
 </p>
 
 ---
@@ -69,32 +73,67 @@ Blockchain & Web3 developer focused on smart contract engineering, EVM-compatibl
 **Smart Contracts**
 - ERC-20 / ERC-721 / ERC-1155
 - ERC-4337 Account Abstraction
-- Proxy Patterns & Upgrades (UUPS)
-- Gas Optimization
-- Reentrancy Guards
-- Access Control & Role Management
+- Proxy Patterns & Upgrades (UUPS / Transparent / Diamond)
+- Gas Optimization & Storage Packing
+- Reentrancy Guards & Checks-Effects-Interactions
+- Access Control (RBAC, Ownable, Timelock)
 
 </td>
 <td width="33%">
 
-**DeFi Protocols**
-- AMM & Liquidity Pools
-- Staking & Yield Farming
-- Lending & Borrowing Markets
-- Cross-Chain Bridges
-- Chainlink Oracles & CCIP
-- MEV & Sandwich Protection
+**DeFi & Protocols**
+- AMM Design & Liquidity Pool Math
+- Staking, Yield Farming & veTokenomics
+- Lending & Borrowing (Overcollateralized)
+- Cross-Chain Bridges (Lock-and-Mint, Burn-and-Mint)
+- Chainlink Oracles, VRF & CCIP
+- MEV Mechanics & Sandwich Attack Mitigation
 
 </td>
 <td width="33%">
 
 **Security & Auditing**
-- Static Analysis (Slither)
-- Fuzzing (Echidna, Medusa)
-- Invariant Testing (Foundry)
-- Formal Verification
-- Symbolic Execution
-- Bug Bounty Triage
+- Static Analysis (Slither, Aderyn)
+- Fuzzing (Echidna, Medusa, Foundry Invariant)
+- Symbolic Execution (Mythril, Manticore)
+- Formal Verification & Certora Prover
+- Reentrancy, Flash Loan, Oracle Manipulation
+- Audit Report Writing & Bug Bounty Triage
+
+</td>
+</tr>
+<tr>
+<td width="33%">
+
+**Layer 2 & Scaling**
+- Optimistic Rollups (Arbitrum, Optimism)
+- ZK-Rollups (zkSync, StarkNet, Scroll)
+- Validiums & Plasma Architectures
+- Data Availability (Celestia, EigenDA)
+- Sidechains & Appchains (Polygon, Avalanche)
+- EIP-4844 Blobs & Calldata Optimization
+
+</td>
+<td width="33%">
+
+**Cross-Chain & Infrastructure**
+- LayerZero, Axelar, Wormhole Messaging
+- The Graph Subgraph Indexing & Ponder
+- Alchemy / Infura / QuickNode RPC Nodes
+- IPFS / Arweave / Filecoin Storage
+- ENS & Decentralized Identity (DID)
+- Tenderly Simulation, Debug & Monitoring
+
+</td>
+<td width="33%">
+
+**Tokenomics & Governance**
+- DAO Frameworks (OpenZeppelin Governor)
+- On-Chain & Snapshot Voting Mechanisms
+- Token Distribution & Vesting Schedules
+- NFT Drops, Whitelists & Metadata Standards
+- RWA Tokenization & Compliance
+- DePIN Economic Models & Incentive Design
 
 </td>
 </tr>
