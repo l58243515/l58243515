@@ -73,8 +73,8 @@ Blockchain and Web3 developer focused on smart contract engineering, EVM-compati
 ### GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=l58243515&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&amp;theme=tokyonight&amp;hide=issues&amp;hide_rank=true&amp;custom_title=Activity" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l58243515&amp;layout=compact&amp;hide_border=true&amp;theme=tokyonight&amp;langs_count=6&amp;custom_title=Languages&amp;hide=html,css" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=l58243515&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&hide=issues&hide_rank=true&custom_title=Activity" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l58243515&layout=compact&hide_border=true&theme=tokyonight&langs_count=6&custom_title=Languages&hide=html,css" />
 </p>
 
 ---
