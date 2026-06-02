@@ -9,11 +9,11 @@
 
 ---
 
-> Blockchain and Web3 developer focused on smart contract engineering, EVM-compatible chains, and decentralized application architecture. Building secure, gas-optimized protocols with thorough testing and formal verification practices.
+Blockchain and Web3 developer focused on smart contract engineering, EVM-compatible chains, and decentralized application architecture. Building secure, gas-optimized protocols with thorough testing and formal verification practices.
 
 ---
 
-###  Languages
+### Languages
 
 <p>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white" />
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&amp;logo=go&amp;logoColor=white" />
 </p>
 
-###  Frameworks
+### Frameworks
 
 <p>
   <img src="https://img.shields.io/badge/Foundry-FF6600?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white" />
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/Wagmi-000000?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white" />
 </p>
 
-###  Chains
+### Chains
 
 <p>
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white" />
@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/Arbitrum-28A0F0?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white" />
 </p>
 
-###  Infrastructure
+### Infrastructure
 
 <p>
   <img src="https://img.shields.io/badge/MetaMask-E17726?style=for-the-badge&amp;logo=metamask&amp;logoColor=white" />
@@ -59,7 +59,7 @@
 
 ---
 
-###  Expertise
+### Expertise
 
 | Smart Contracts | DeFi and Protocols | Security and Auditing |
 |:--|:--|:--|
@@ -79,7 +79,7 @@
 
 ---
 
-###  Projects
+### Projects
 
 **[devkit](https://github.com/l58243515/devkit)** -- Developer CLI toolkit: scaffolding, file organization, crypto utilities, git stats.  
 *Python | Click | Rich | 47 tests | 91% coverage*
