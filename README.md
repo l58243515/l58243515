@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:F7931A,50:E2761B,100:627EEA&amp;height=200&amp;section=header&amp;text=l58243515&amp;fontSize=48&amp;fontAlignY=34&amp;desc=Blockchain+Web3+Developer&amp;descSize=15&amp;descAlignY=58&amp;animation=fadeIn&amp;fontColor=ffffff&amp;descColor=f8d06b" />
-</p>
+<h1 align="center">l58243515</h1>
+<h3 align="center">Blockchain / Web3 Developer</h3>
 
 <p align="center">
   <a href="https://github.com/l58243515"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
@@ -101,6 +100,4 @@ Blockchain and Web3 developer focused on smart contract engineering, EVM-compati
   <a href="mailto:xiannalan2020@outlook.com"><img src="https://img.shields.io/badge/Email-xiannalan2020%40outlook.com-EA4335?style=for-the-badge&amp;logo=gmail" /></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:F7931A,50:E2761B,100:627EEA&amp;height=120&amp;section=footer&amp;animation=fadeIn" />
-</p>
+<p align="center"><sub>2024 - 2026 l58243515</sub></p>
