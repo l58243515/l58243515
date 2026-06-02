@@ -22,6 +22,7 @@ Blockchain & Web3 developer focused on smart contract engineering, EVM-compatibl
 <p>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Move-4FC08D?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
@@ -29,6 +30,7 @@ Blockchain & Web3 developer focused on smart contract engineering, EVM-compatibl
 <p>
   <img src="https://img.shields.io/badge/Foundry-FF6600?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black" />
+  <img src="https://img.shields.io/badge/Anchor-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/Wagmi-000000?style=for-the-badge&logo=ethereum&logoColor=white" />
@@ -36,9 +38,10 @@ Blockchain & Web3 developer focused on smart contract engineering, EVM-compatibl
 <p>
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aptos-000000?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sui-4DA2FF?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/Arbitrum-28A0F0?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Base-0052FF?style=for-the-badge&logo=ethereum&logoColor=white" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/MetaMask-E17726?style=for-the-badge&logo=metamask&logoColor=white" />
@@ -46,6 +49,7 @@ Blockchain & Web3 developer focused on smart contract engineering, EVM-compatibl
   <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/Slither-1ABC9C?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tenderly-8A2BE2?style=for-the-badge&logo=ethereum&logoColor=white" />
 </p>
 
 ---
