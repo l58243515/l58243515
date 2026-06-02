@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:F7931A,50:E2761B,100:627EEA&amp;height=180&amp;section=header&amp;text=l58243515&amp;fontSize=44&amp;fontAlignY=34&amp;desc=Blockchain+%26+Web3+Developer&amp;descSize=14&amp;descAlignY=56&amp;animation=fadeIn&amp;fontColor=ffffff&amp;descColor=f8d06b" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:F7931A,50:E2761B,100:627EEA&amp;height=180&amp;section=header&amp;text=l58243515&amp;fontSize=44&amp;fontAlignY=34&amp;desc=Blockchain+Web3+Developer&amp;descSize=14&amp;descAlignY=56&amp;animation=fadeIn&amp;fontColor=ffffff&amp;descColor=f8d06b" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=18&amp;duration=3000&amp;pause=1000&amp;color=F7931A&amp;center=true&amp;vCenter=true&amp;width=550&amp;lines=Smart+Contract+Development;EVM+%7C+Solana+%7C+Layer+2;Foundry+%7C+Hardhat+%7C+Anchor;DeFi+%7C+NFT+%7C+Security)](https://git.io/typing-svg)]
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=18&amp;duration=3000&amp;pause=1000&amp;color=F7931A&amp;center=true&amp;width=550&amp;lines=Smart+Contract+Development;EVM+Solana+Layer+2;Foundry+Hardhat+Anchor;DeFi+NFT+Security" alt="typing" />
 
 <p>
   <a href="https://github.com/l58243515"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
@@ -13,7 +13,7 @@
 
 ---
 
-Blockchain &amp; Web3 developer focused on smart contract engineering, EVM-compatible chains, and decentralized application architecture. Building secure, gas-optimized protocols with thorough testing and formal verification practices.
+Blockchain and Web3 developer focused on smart contract engineering, EVM-compatible chains, and decentralized application architecture. Building secure, gas-optimized protocols with thorough testing and formal verification practices.
 
 ---
 
@@ -63,28 +63,28 @@ Blockchain &amp; Web3 developer focused on smart contract engineering, EVM-compa
 **Smart Contracts**
 - ERC-20 / ERC-721 / ERC-1155
 - ERC-4337 Account Abstraction
-- UUPS &amp; Transparent Proxy Patterns
+- UUPS and Transparent Proxy Patterns
 - Gas Optimization
-- Access Control &amp; Timelocks
+- Access Control and Timelocks
 
 </td>
 <td width="33%">
 
-**DeFi &amp; Protocols**
-- AMM Design &amp; Liquidity Pools
-- Staking &amp; Yield Farming
-- Lending &amp; Borrowing Markets
-- Chainlink Oracles &amp; CCIP
+**DeFi and Protocols**
+- AMM Design and Liquidity Pools
+- Staking and Yield Farming
+- Lending and Borrowing Markets
+- Chainlink Oracles and CCIP
 - MEV Mitigation
 
 </td>
 <td width="33%">
 
-**Security &amp; Auditing**
-- Slither &amp; Aderyn Static Analysis
-- Echidna &amp; Foundry Fuzz Testing
+**Security and Auditing**
+- Slither and Aderyn Static Analysis
+- Echidna and Foundry Fuzz Testing
 - Formal Verification (Certora)
-- Reentrancy &amp; Flash Loan Defense
+- Reentrancy and Flash Loan Defense
 - Audit Report Writing
 
 </td>
@@ -92,12 +92,12 @@ Blockchain &amp; Web3 developer focused on smart contract engineering, EVM-compa
 <tr>
 <td width="33%">
 
-**Layer 2 &amp; Scaling**
+**Layer 2 and Scaling**
 - Optimistic Rollups (Arbitrum, OP)
 - ZK-Rollups (zkSync, StarkNet)
 - Data Availability (Celestia, EigenDA)
 - EIP-4844 Blob Transactions
-- Sidechains &amp; Appchains
+- Sidechains and Appchains
 
 </td>
 <td width="33%">
@@ -107,15 +107,15 @@ Blockchain &amp; Web3 developer focused on smart contract engineering, EVM-compa
 - Lock-and-Mint Bridge Patterns
 - Cross-Chain Messaging Protocols
 - Multi-Chain Contract Deployment
-- ENS &amp; Decentralized Identity
+- ENS and Decentralized Identity
 
 </td>
 <td width="33%">
 
-**Tokenomics &amp; Governance**
-- DAO Frameworks &amp; On-Chain Voting
-- Token Vesting &amp; Distribution
-- NFT Drops &amp; Metadata Standards
+**Tokenomics and Governance**
+- DAO Frameworks and On-Chain Voting
+- Token Vesting and Distribution
+- NFT Drops and Metadata Standards
 - RWA Tokenization
 - DePIN Economic Models
 
@@ -130,12 +130,12 @@ Blockchain &amp; Web3 developer focused on smart contract engineering, EVM-compa
 <div align="center">
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=l58243515&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&amp;theme=tokyonight&amp;hide=issues&amp;hide_rank=true&amp;custom_title=Activity" />
-&amp;nbsp;
+&nbsp;
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l58243515&amp;layout=compact&amp;hide_border=true&amp;theme=tokyonight&amp;langs_count=6&amp;custom_title=Languages&amp;hide=html,css" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=l58243515&amp;theme=tokyonight&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=l58243515&amp;theme=tokyonight&amp;hide_border=true&amp;date_format=M+j+Y" />
 
 </div>
 
@@ -147,28 +147,28 @@ Blockchain &amp; Web3 developer focused on smart contract engineering, EVM-compa
 <tr>
 <td width="50%">
 
-**[devkit](https://github.com/l58243515/devkit)** &amp;nbsp; <sup>`Python` `Click` `CLI`</sup><br>
-<sub>Developer CLI toolkit — scaffolding, file organization, crypto utilities, and git stats. 47 tests · 91% coverage.</sub>
+**[devkit](https://github.com/l58243515/devkit)** `Python` `Click` `CLI`<br>
+<sub>Developer CLI toolkit — scaffolding, file organization, crypto utilities, and git stats. 47 tests, 91% coverage.</sub>
 
 </td>
 <td width="50%">
 
-**[llm-bridge](https://github.com/l58243515/llm-bridge)** &amp;nbsp; <sup>`TypeScript` `SDK` `LLM`</sup><br>
-<sub>Unified SDK for LLM providers — streaming, caching, retry, and fallback chains. 69 tests · 89.6% coverage.</sub>
+**[llm-bridge](https://github.com/l58243515/llm-bridge)** `TypeScript` `SDK` `LLM`<br>
+<sub>Unified SDK for LLM providers — streaming, caching, retry, and fallback chains. 69 tests, 89.6% coverage.</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**[react-glass](https://github.com/l58243515/react-glass)** &amp;nbsp; <sup>`React` `TypeScript` `CSS`</sup><br>
-<sub>Glassmorphism UI library — CSS theming, full ARIA, keyboard nav, reduced-motion aware. 44 tests · A11y-ready.</sub>
+**[react-glass](https://github.com/l58243515/react-glass)** `React` `TypeScript` `CSS`<br>
+<sub>Glassmorphism UI library — CSS theming, full ARIA, keyboard nav, reduced-motion aware. 44 tests, A11y-ready.</sub>
 
 </td>
 <td width="50%">
 
-**[mini-ml](https://github.com/l58243515/mini-ml)** &amp;nbsp; <sup>`Python` `NumPy` `ML`</sup><br>
-<sub>ML toolkit from scratch — preprocessing, metrics, k-fold CV, visualization. 92 tests · 90% coverage.</sub>
+**[mini-ml](https://github.com/l58243515/mini-ml)** `Python` `NumPy` `ML`<br>
+<sub>ML toolkit from scratch — preprocessing, metrics, k-fold CV, visualization. 92 tests, 90% coverage.</sub>
 
 </td>
 </tr>
@@ -183,7 +183,7 @@ Blockchain &amp; Web3 developer focused on smart contract engineering, EVM-compa
 <br/>
 
 <a href="https://github.com/l58243515"><img src="https://img.shields.io/badge/GitHub-l58243515-181717?style=for-the-badge&amp;logo=github" /></a>
-&amp;nbsp;
+&nbsp;
 <a href="mailto:58243515@qq.com"><img src="https://img.shields.io/badge/Email-58243515@qq.com-EA4335?style=for-the-badge&amp;logo=gmail" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:F7931A,50:E2761B,100:627EEA&amp;height=100&amp;section=footer&amp;animation=fadeIn" />
