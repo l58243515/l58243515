@@ -81,29 +81,17 @@
 
 ###  Projects
 
-<p>
-  <a href="https://github.com/l58243515/devkit"><b>devkit</b></a>
-  -- Developer CLI toolkit: scaffolding, file organization, crypto utilities, git stats.
-  <br><sub>Python | Click | Rich | 47 tests | 91% coverage</sub>
-</p>
+**[devkit](https://github.com/l58243515/devkit)** -- Developer CLI toolkit: scaffolding, file organization, crypto utilities, git stats.  
+*Python | Click | Rich | 47 tests | 91% coverage*
 
-<p>
-  <a href="https://github.com/l58243515/llm-bridge"><b>llm-bridge</b></a>
-  -- Unified TypeScript SDK for LLM providers: streaming, caching, retry, fallback chains.
-  <br><sub>TypeScript | SDK | 69 tests | 89.6% coverage</sub>
-</p>
+**[llm-bridge](https://github.com/l58243515/llm-bridge)** -- Unified TypeScript SDK for LLM providers: streaming, caching, retry, fallback chains.  
+*TypeScript | SDK | 69 tests | 89.6% coverage*
 
-<p>
-  <a href="https://github.com/l58243515/react-glass"><b>react-glass</b></a>
-  -- Glassmorphism React UI library: CSS theming, full ARIA, keyboard nav, reduced-motion.
-  <br><sub>React | TypeScript | CSS | 44 tests | A11y-ready</sub>
-</p>
+**[react-glass](https://github.com/l58243515/react-glass)** -- Glassmorphism React UI library: CSS theming, full ARIA, keyboard nav, reduced-motion.  
+*React | TypeScript | CSS | 44 tests | A11y-ready*
 
-<p>
-  <a href="https://github.com/l58243515/mini-ml"><b>mini-ml</b></a>
-  -- ML toolkit from scratch with NumPy: preprocessing, metrics, k-fold CV, visualization.
-  <br><sub>Python | NumPy | 92 tests | 90% coverage</sub>
-</p>
+**[mini-ml](https://github.com/l58243515/mini-ml)** -- ML toolkit from scratch with NumPy: preprocessing, metrics, k-fold CV, visualization.  
+*Python | NumPy | 92 tests | 90% coverage*
 
 ---
 
