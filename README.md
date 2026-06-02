@@ -61,21 +61,21 @@
 
 ###  Expertise
 
-| Smart Contracts | DeFi & Protocols | Security & Auditing |
+| Smart Contracts | DeFi and Protocols | Security and Auditing |
 |:--|:--|:--|
-| ERC-20 / ERC-721 / ERC-1155 | AMM Design & Liquidity Pools | Slither & Aderyn Analysis |
-| ERC-4337 Account Abstraction | Staking & Yield Farming | Echidna & Foundry Fuzzing |
-| UUPS & Proxy Patterns | Lending & Borrowing | Formal Verification (Certora) |
-| Gas Optimization | Chainlink Oracles & CCIP | Reentrancy & Flash Loan Defense |
-| Access Control & Timelocks | MEV Mitigation | Audit Report Writing |
+| ERC-20 / ERC-721 / ERC-1155 | AMM Design and Liquidity Pools | Slither and Aderyn Analysis |
+| ERC-4337 Account Abstraction | Staking and Yield Farming | Echidna and Foundry Fuzzing |
+| UUPS and Proxy Patterns | Lending and Borrowing | Formal Verification (Certora) |
+| Gas Optimization | Chainlink Oracles and CCIP | Reentrancy and Flash Loan Defense |
+| Access Control and Timelocks | MEV Mitigation | Audit Report Writing |
 
-| Layer 2 & Scaling | Cross-Chain | Tokenomics & Governance |
+| Layer 2 and Scaling | Cross-Chain | Tokenomics and Governance |
 |:--|:--|:--|
-| Optimistic Rollups (Arb, OP) | LayerZero, Wormhole, Axelar | DAO Frameworks & Voting |
-| ZK-Rollups (zkSync, StarkNet) | Lock-and-Mint Bridge Patterns | Token Vesting & Distribution |
-| Data Availability (Celestia) | Cross-Chain Messaging | NFT Drops & Metadata |
+| Optimistic Rollups (Arb, OP) | LayerZero, Wormhole, Axelar | DAO Frameworks and Voting |
+| ZK-Rollups (zkSync, StarkNet) | Lock-and-Mint Bridge Patterns | Token Vesting and Distribution |
+| Data Availability (Celestia) | Cross-Chain Messaging | NFT Drops and Metadata |
 | EIP-4844 Blob Transactions | Multi-Chain Deployment | RWA Tokenization |
-| Sidechains & Appchains | ENS & Decentralized Identity | DePIN Economic Models |
+| Sidechains and Appchains | ENS and Decentralized Identity | DePIN Economic Models |
 
 ---
 
