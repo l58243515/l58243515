@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:F7931A,50:E2761B,100:627EEA&amp;height=180&amp;section=header&amp;text=l58243515&amp;fontSize=44&amp;fontAlignY=34&amp;desc=Blockchain+Web3+Developer&amp;descSize=14&amp;descAlignY=56&amp;animation=fadeIn&amp;fontColor=ffffff&amp;descColor=f8d06b" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:F7931A,50:E2761B,100:627EEA&amp;height=180&amp;section=header&amp;text=l58243515&amp;fontSize=44&amp;fontAlignY=34&amp;desc=CryptoOrange&amp;descSize=14&amp;descAlignY=56&amp;animation=fadeIn&amp;fontColor=ffffff&amp;descColor=f8d06b" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ---
 
-Blockchain and Web3 developer focused on smart contract engineering, EVM-compatible chains, and decentralized application architecture. Building secure, gas-optimized protocols with thorough testing and formal verification practices.
+Blockchain and Web3 developer focused on smart contract engineering, EVM-compatible chains, and decentralized application architecture. Member of **CryptoOrange** -- building secure, gas-optimized protocols with thorough testing and formal verification practices.
 
 ---
 
