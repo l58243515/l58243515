@@ -1,19 +1,20 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:F7931A,50:E2761B,100:627EEA&amp;height=180&amp;section=header&amp;text=l58243515&amp;fontSize=44&amp;fontAlignY=34&amp;desc=Blockchain+Web3+Developer&amp;descSize=14&amp;descAlignY=56&amp;animation=fadeIn&amp;fontColor=ffffff&amp;descColor=f8d06b" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:F7931A,50:E2761B,100:627EEA&amp;height=200&amp;section=header&amp;text=l58243515&amp;fontSize=48&amp;fontAlignY=34&amp;desc=Blockchain+%26+Web3+Developer&amp;descSize=15&amp;descAlignY=58&amp;animation=fadeIn&amp;fontColor=ffffff&amp;descColor=f8d06b" />
 </p>
 
 <p align="center">
   <a href="https://github.com/l58243515"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
-  <a href="mailto:xiannalan2020@outlook.com"><img src="https://img.shields.io/badge/Email-xiannalan2020@outlook.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+  &nbsp;
+  <a href="mailto:xiannalan2020@outlook.com"><img src="https://img.shields.io/badge/Email-xiannalan2020%40outlook.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
 </p>
 
 ---
 
-Blockchain and Web3 developer focused on smart contract engineering, EVM-compatible chains, and decentralized application architecture. Building secure, gas-optimized protocols with thorough testing and formal verification practices.
+> Blockchain and Web3 developer focused on smart contract engineering, EVM-compatible chains, and decentralized application architecture. Building secure, gas-optimized protocols with thorough testing and formal verification practices.
 
 ---
 
-### Stack
+###  Languages
 
 <p>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white" />
@@ -23,6 +24,9 @@ Blockchain and Web3 developer focused on smart contract engineering, EVM-compati
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&amp;logo=go&amp;logoColor=white" />
 </p>
+
+###  Frameworks
+
 <p>
   <img src="https://img.shields.io/badge/Foundry-FF6600?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&amp;logo=ethereum&amp;logoColor=black" />
@@ -31,6 +35,9 @@ Blockchain and Web3 developer focused on smart contract engineering, EVM-compati
   <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/Wagmi-000000?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white" />
 </p>
+
+###  Chains
+
 <p>
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&amp;logo=solana&amp;logoColor=white" />
@@ -39,6 +46,9 @@ Blockchain and Web3 developer focused on smart contract engineering, EVM-compati
   <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/Arbitrum-28A0F0?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white" />
 </p>
+
+###  Infrastructure
+
 <p>
   <img src="https://img.shields.io/badge/MetaMask-E17726?style=for-the-badge&amp;logo=metamask&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/The_Graph-6747ED?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white" />
@@ -50,45 +60,60 @@ Blockchain and Web3 developer focused on smart contract engineering, EVM-compati
 
 ---
 
-### Expertise
+###  Expertise
 
-| Smart Contracts | DeFi and Protocols | Security and Auditing |
+| Smart Contracts | DeFi & Protocols | Security & Auditing |
 |:--|:--|:--|
-| ERC-20 / ERC-721 / ERC-1155 | AMM Design and Liquidity Pools | Slither and Aderyn Analysis |
-| ERC-4337 Account Abstraction | Staking and Yield Farming | Echidna and Foundry Fuzzing |
-| UUPS and Proxy Patterns | Lending and Borrowing | Formal Verification (Certora) |
-| Gas Optimization | Chainlink Oracles and CCIP | Reentrancy and Flash Loan Defense |
-| Access Control and Timelocks | MEV Mitigation | Audit Report Writing |
+| ERC-20 / ERC-721 / ERC-1155 | AMM Design & Liquidity Pools | Slither & Aderyn Analysis |
+| ERC-4337 Account Abstraction | Staking & Yield Farming | Echidna & Foundry Fuzzing |
+| UUPS & Proxy Patterns | Lending & Borrowing | Formal Verification (Certora) |
+| Gas Optimization | Chainlink Oracles & CCIP | Reentrancy & Flash Loan Defense |
+| Access Control & Timelocks | MEV Mitigation | Audit Report Writing |
 
-| Layer 2 and Scaling | Cross-Chain | Tokenomics and Governance |
+| Layer 2 & Scaling | Cross-Chain | Tokenomics & Governance |
 |:--|:--|:--|
-| Optimistic Rollups (Arb, OP) | LayerZero, Wormhole, Axelar | DAO Frameworks and Voting |
-| ZK-Rollups (zkSync, StarkNet) | Lock-and-Mint Bridge Patterns | Token Vesting and Distribution |
-| Data Availability (Celestia) | Cross-Chain Messaging | NFT Drops and Metadata |
+| Optimistic Rollups (Arb, OP) | LayerZero, Wormhole, Axelar | DAO Frameworks & Voting |
+| ZK-Rollups (zkSync, StarkNet) | Lock-and-Mint Bridge Patterns | Token Vesting & Distribution |
+| Data Availability (Celestia) | Cross-Chain Messaging | NFT Drops & Metadata |
 | EIP-4844 Blob Transactions | Multi-Chain Deployment | RWA Tokenization |
-| Sidechains and Appchains | ENS and Decentralized Identity | DePIN Economic Models |
+| Sidechains & Appchains | ENS & Decentralized Identity | DePIN Economic Models |
 
 ---
 
----
+###  Projects
 
-### Projects
+<p>
+  <a href="https://github.com/l58243515/devkit"><b>devkit</b></a>
+  &mdash; Developer CLI toolkit: scaffolding, file organization, crypto utilities, git stats.
+  <br><sub>Python &bull; Click &bull; Rich &bull; 47 tests &bull; 91% coverage</sub>
+</p>
 
-**devkit** — Developer CLI toolkit: scaffolding, file organization, crypto utilities, git stats. Python, Click, Rich. *47 tests, 91% coverage, MIT.*
+<p>
+  <a href="https://github.com/l58243515/llm-bridge"><b>llm-bridge</b></a>
+  &mdash; Unified TypeScript SDK for LLM providers: streaming, caching, retry, fallback chains.
+  <br><sub>TypeScript &bull; SDK &bull; 69 tests &bull; 89.6% coverage</sub>
+</p>
 
-**llm-bridge** — Unified TypeScript SDK for LLM providers: streaming, caching, retry, fallback chains. *69 tests, 89.6% coverage, MIT.*
+<p>
+  <a href="https://github.com/l58243515/react-glass"><b>react-glass</b></a>
+  &mdash; Glassmorphism React UI library: CSS theming, full ARIA, keyboard nav, reduced-motion.
+  <br><sub>React &bull; TypeScript &bull; CSS &bull; 44 tests &bull; A11y-ready</sub>
+</p>
 
-**react-glass** — Glassmorphism React UI library: CSS theming, full ARIA, keyboard nav, reduced-motion aware. *44 tests, A11y-ready, MIT.*
-
-**mini-ml** — ML toolkit from scratch with NumPy: preprocessing, metrics, k-fold CV, visualization. *92 tests, 90% coverage, MIT.*
+<p>
+  <a href="https://github.com/l58243515/mini-ml"><b>mini-ml</b></a>
+  &mdash; ML toolkit from scratch with NumPy: preprocessing, metrics, k-fold CV, visualization.
+  <br><sub>Python &bull; NumPy &bull; 92 tests &bull; 90% coverage</sub>
+</p>
 
 ---
 
 <p align="center">
   <a href="https://github.com/l58243515"><img src="https://img.shields.io/badge/GitHub-l58243515-181717?style=for-the-badge&amp;logo=github" /></a>
-  <a href="mailto:xiannalan2020@outlook.com"><img src="https://img.shields.io/badge/Email-xiannalan2020@outlook.com-EA4335?style=for-the-badge&amp;logo=gmail" /></a>
+  &nbsp;
+  <a href="mailto:xiannalan2020@outlook.com"><img src="https://img.shields.io/badge/Email-xiannalan2020%40outlook.com-EA4335?style=for-the-badge&amp;logo=gmail" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:F7931A,50:E2761B,100:627EEA&amp;height=100&amp;section=footer&amp;animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:F7931A,50:E2761B,100:627EEA&amp;height=120&amp;section=footer&amp;animation=fadeIn" />
 </p>
