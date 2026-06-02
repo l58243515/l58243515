@@ -1,8 +1,11 @@
-# l58243515  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:F7931A,50:E2761B,100:627EEA&amp;height=180&amp;section=header&amp;text=l58243515&amp;fontSize=44&amp;fontAlignY=34&amp;desc=Blockchain+Web3+Developer&amp;descSize=14&amp;descAlignY=56&amp;animation=fadeIn&amp;fontColor=ffffff&amp;descColor=f8d06b" />
+</p>
 
-**Blockchain / Web3 Developer**
-
-[GitHub](https://github.com/l58243515)  |  [Email](mailto:xiannalan2020@outlook.com)
+<p align="center">
+  <a href="https://github.com/l58243515"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
+  <a href="mailto:xiannalan2020@outlook.com"><img src="https://img.shields.io/badge/Email-xiannalan2020%40outlook.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+</p>
 
 ---
 
@@ -10,23 +13,44 @@ Blockchain and Web3 developer focused on smart contract engineering, EVM-compati
 
 ---
 
-## Stack
+### Stack
 
-### Languages
-`Solidity` `Rust` `Move` `TypeScript` `Python` `Go`
-
-### Frameworks
-`Foundry` `Hardhat` `Anchor` `OpenZeppelin` `Ethers.js` `Wagmi`
-
-### Chains
-`Ethereum` `Solana` `Aptos` `Sui` `Polygon` `Arbitrum`
-
-### Infrastructure
-`MetaMask` `The Graph` `Chainlink` `IPFS` `Slither` `Tenderly`
+<p>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&amp;logo=rust&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Move-4FC08D?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&amp;logo=go&amp;logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Foundry-FF6600?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&amp;logo=ethereum&amp;logoColor=black" />
+  <img src="https://img.shields.io/badge/Anchor-9945FF?style=for-the-badge&amp;logo=solana&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Wagmi-000000?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&amp;logo=solana&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Aptos-000000?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Sui-4DA2FF?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Arbitrum-28A0F0?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/MetaMask-E17726?style=for-the-badge&amp;logo=metamask&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/The_Graph-6747ED?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&amp;logo=chainlink&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Slither-1ABC9C?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Tenderly-8A2BE2?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white" />
+</p>
 
 ---
 
-## Expertise
+### Expertise
 
 | Smart Contracts | DeFi and Protocols | Security and Auditing |
 |:--|:--|:--|
@@ -46,7 +70,7 @@ Blockchain and Web3 developer focused on smart contract engineering, EVM-compati
 
 ---
 
-## Projects
+### Projects
 
 **[devkit](https://github.com/l58243515/devkit)** -- Developer CLI toolkit: scaffolding, file organization, crypto utilities, git stats.  
 *Python | Click | Rich | 47 tests | 91% coverage*
@@ -62,4 +86,11 @@ Blockchain and Web3 developer focused on smart contract engineering, EVM-compati
 
 ---
 
-[GitHub](https://github.com/l58243515)  |  [Email](mailto:xiannalan2020@outlook.com)
+<p align="center">
+  <a href="https://github.com/l58243515"><img src="https://img.shields.io/badge/GitHub-l58243515-181717?style=for-the-badge&amp;logo=github" /></a>
+  <a href="mailto:xiannalan2020@outlook.com"><img src="https://img.shields.io/badge/Email-xiannalan2020%40outlook.com-EA4335?style=for-the-badge&amp;logo=gmail" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:F7931A,50:E2761B,100:627EEA&amp;height=100&amp;section=footer&amp;animation=fadeIn" />
+</p>
