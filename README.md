@@ -62,11 +62,11 @@ Lightweight ML toolkit from scratch with NumPy — preprocessing, classification
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=l58243515&show_icons=true&count_private=true&hide_border=true&hide=prs,issues&hide_rank=true&custom_title=Activity&title_color=1f2328&icon_color=2563EB&text_color=656d76&ring_color=2563EB&bg_color=00000000" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=l58243515&show_icons=true&count_private=true&hide_border=true&hide=prs,issues&hide_rank=true&custom_title=Activity&theme=transparent&icon_color=2563EB&ring_color=2563EB&title_color=1f2328&text_color=434d58" />
 
 &nbsp;&nbsp;
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l58243515&layout=compact&hide_border=true&custom_title=Languages&hide=html,css&title_color=1f2328&text_color=656d76&bg_color=00000000&langs_count=6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l58243515&layout=compact&hide_border=true&custom_title=Languages&hide=html,css&theme=transparent&title_color=1f2328&text_color=434d58&langs_count=6" />
 
 <br><br>
 
